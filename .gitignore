@@ -1,0 +1,9 @@
+*.swp
+target
+.hg
+.hgignore
+.project
+.classpath
+.settings
+
+
